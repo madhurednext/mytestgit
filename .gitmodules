@@ -1,0 +1,3 @@
+[submodule "testtst"]
+	path = testtst
+	url = https://github.com/madhurednext/mytestgit.git
